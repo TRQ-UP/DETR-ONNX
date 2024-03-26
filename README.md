@@ -28,10 +28,8 @@
 
 # 4.检测结果
 
-    DETR模型介绍
+* DETR模型介绍
+  ![197868a96aa54988a7e29bdfa9cff99b](https://github.com/TRQ-UP/DETR-ONNX/assets/37291715/2447d739-bc6c-4b36-b772-68e4d29e944a)
 
-![197868a96aa54988a7e29bdfa9cff99b.png](/home/trq/data/DETR-ONNX/197868a96aa54988a7e29bdfa9cff99b.png)
+![output](https://github.com/TRQ-UP/DETR-ONNX/assets/37291715/e5181f5c-3f25-4458-95f4-96f5b165b4dc)
 
-
-
-![output.png](/home/trq/data/DETR-ONNX/output.png)
